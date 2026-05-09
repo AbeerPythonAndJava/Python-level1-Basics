@@ -14,7 +14,7 @@ print(f"Total session duration: {duration} minutes.")
 
 if duration < 15:
     print("Session too short")
-elif 15 <= duration <= 45 :
+elif 15 <= duration < 45 :
     print("Ideal session duration")
 else:
     print("Warning: Child might be fatigued")
@@ -24,6 +24,6 @@ if 1 <=  score_child <= 4:
     print("(Low Attention - Needs sensory break")
 elif 5 <= score_child <=7:
     print("Good Attention - Continue activity")
-elif 8 < score_child <=10:
+elif 8 <= score_child <=10:
     print("Excellent Attention - Introduce new challenge")
 
