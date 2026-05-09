@@ -25,6 +25,5 @@ if 1 <=  score_child <= 4:
 elif 5 <= score_child <=7:
     print("Good Attention - Continue activity")
 elif 8 < score_child <=10:
-      print("Excellent Attention - Introduce new challenge")
     print("Excellent Attention - Introduce new challenge")
 
