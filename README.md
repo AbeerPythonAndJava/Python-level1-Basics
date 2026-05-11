@@ -1,43 +1,31 @@
 Smart Autism Assessment System (SAAS)
 Building an Adaptive AI-Driven Tool for Children with Autism
-
 📌 Project Overview
-This repository documents my journey in building the Logical Brain for an adaptive educational system designed for children with autism. The project is structured into progressive phases, moving from basic data processing to intelligent, interactive decision-making.
+This repository documents my journey in building the Logical Brain for an adaptive educational system. The project is structured into progressive phases, moving from basic data processing to intelligent, interactive decision-making.
 
 🛠 Phase 1: The Logical Engine (Completed ✅)
-The goal of this phase was to build the "back-end" logic—the part of the robot that calculates, remembers, and alerts.
+Focused on back-end logic, data processing, and automated monitoring.
 
-📅 Accomplishments:
-01_session_tracker.py: Calculates session duration (Sensing time).
+Deliverables: 01_session_tracker.py, 02_attention_evaluator.py, 03_session_log_manager.py, 04_alert_system.py.
 
-02_attention_evaluator.py: Classifies attention levels using conditional logic (if/else).
+🧩 Phase 2: Interactive Question Bank (Completed ✅)
+Transforming the engine into an interactive tool that adapts to the child's performance.
 
-03_session_log_manager.py: Creates a memory for the system using Lists to store history.
+05_single_question.py: First "Smart Flashcard" using Dictionaries.
 
-04_alert_system.py: Automates the monitoring process using Loops to detect low-performance patterns.
+06_skill_assessment_v1.py: Automated Skill Assessment Bank with scoring logic.
 
-🧩 Phase 2: Interactive Question Bank (In Progress 🚀)
-In this phase, we transform the engine into an interactive tool that communicates directly with the child.
+07_adaptive_hints.py: Implementing Adaptive Logic using hints and multi-attempt scoring (Scaffolding).
 
-📅 Accomplishments:
-05_single_question.py: Created the first "Smart Flashcard" using Dictionaries (Key-Value pairs).
+🔜 Future Roadmap
+Phase 3: User Interface (UI): Moving from terminal to a web interface using Streamlit.
 
-06_skill_assessment_v1.py: Developed a full Automated Skill Assessment Bank that manages multiple questions and calculates final scores.
-
-🔜 Next Steps in Phase 2:
-Branching Logic: Making the system "Adaptive" (Giving hints or changing difficulty based on answers).
-
-Progress Tracking: Saving session data permanently into external files.
-
-🚀 Future Roadmap
-Phase 3: User Interface (UI): Moving from the terminal to a friendly web interface (using Streamlit).
-
-Phase 4: AI & Personalization: Implementing machine learning algorithms to create a truly personalized learning path for every child.
+Phase 4: AI & Personalization: Machine Learning for personalized learning paths.
 
 👩‍💻 About the Developer
+Computer Science Professional & Researcher.
 
-Role: Computer Science Professional & Researcher.
-Focus: Educational Technology, Artificial Intelligence, and Autism Support Systems.
-Goal: Building a prototype for a PhD scholarship application at King Abdulaziz University.
+Focus: Educational Technology and AI for Autism Support.
+Computer Science Professional & Researcher.
 
-Goal: Building a prototype for a PhD scholarship application at King Abdulaziz University.
+Focus: Educational Technology and AI for Autism Support.
