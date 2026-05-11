@@ -35,6 +35,7 @@ Phase 3: User Interface (UI): Moving from the terminal to a friendly web interfa
 Phase 4: AI & Personalization: Implementing machine learning algorithms to create a truly personalized learning path for every child.
 
 👩‍💻 About the Developer
+
 Role: Computer Science Professional & Researcher.
 Focus: Educational Technology, Artificial Intelligence, and Autism Support Systems.
 Goal: Building a prototype for a PhD scholarship application at King Abdulaziz University.
