@@ -33,5 +33,5 @@ Phase 4: AI & Personalization: Machine Learning for personalized learning paths.
 Computer Science Professional & Researcher.
 
 Focus: Educational Technology and AI for Autism Support.
-Computer Science Professional & Researcher.
-Focus: Educational Technology and AI for Autism Support.
+
+
