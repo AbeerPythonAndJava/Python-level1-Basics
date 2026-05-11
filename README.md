@@ -1,38 +1,42 @@
 Smart Autism Assessment System (SAAS)
-Building the "Logical Brain" of an AI-driven educational tool for children with autism.
+Building an Adaptive AI-Driven Tool for Children with Autism
 
-📌 Project Vision
-This project is being developed stage-by-stage to create an Adaptive Assessment System. The goal is to monitor child performance and automatically adjust the learning level to match their individual needs.
+📌 Project Overview
+This repository documents my journey in building the Logical Brain for an adaptive educational system designed for children with autism. The project is structured into progressive phases, moving from basic data processing to intelligent, interactive decision-making.
 
-🛠 Phase 1: Building the Logical Brain (In Progress)
-In this phase, I am focusing on programming the Decision-Making Engine using Python fundamentals.
+🛠 Phase 1: The Logical Engine (Completed ✅)
+The goal of this phase was to build the "back-end" logic—the part of the robot that calculates, remembers, and alerts.
 
-📅 Week 1: Sensing & Evaluation (Completed ✅)
-Concepts: Inputs, Outputs, and Conditional Logic (if/else).
+📅 Accomplishments:
+01_session_tracker.py: Calculates session duration (Sensing time).
 
-Deliverables:
+02_attention_evaluator.py: Classifies attention levels using conditional logic (if/else).
 
-session_tracker.py: Calculates session duration.
+03_session_log_manager.py: Creates a memory for the system using Lists to store history.
 
-attention_evaluator.py: Classifies attention levels.
+04_alert_system.py: Automates the monitoring process using Loops to detect low-performance patterns.
 
-📅 Week 2: Memory & Data Management (Completed ✅)
-Concepts: Lists and Mathematical Analysis (len, sum, append).
+🧩 Phase 2: Interactive Question Bank (In Progress 🚀)
+In this phase, we transform the engine into an interactive tool that communicates directly with the child.
 
-Deliverables:
+📅 Accomplishments:
+05_single_question.py: Created the first "Smart Flashcard" using Dictionaries (Key-Value pairs).
 
-03_session_log_manager.py: Stores and analyzes session history.
+06_skill_assessment_v1.py: Developed a full Automated Skill Assessment Bank that manages multiple questions and calculates final scores.
 
-📅 Week 3: Automation & Alert Systems (Completed ✅)
-Concepts: for Loops and Data Iteration.
+🔜 Next Steps in Phase 2:
+Branching Logic: Making the system "Adaptive" (Giving hints or changing difficulty based on answers).
 
-The Goal: Teaching the robot how to automatically scan through history to detect patterns.
-
-Deliverable: 04_alert_system.py: Automatically detects low-score days and issues warnings.
+Progress Tracking: Saving session data permanently into external files.
 
 🚀 Future Roadmap
-Phase 2: Interactive Question Bank (Using Dictionaries).
+Phase 3: User Interface (UI): Moving from the terminal to a friendly web interface (using Streamlit).
 
-Phase 3: User Interface (Web-based interaction for children).
+Phase 4: AI & Personalization: Implementing machine learning algorithms to create a truly personalized learning path for every child.
 
-Phase 4: AI Adaptation (Machine Learning for personalized paths).
+👩‍💻 About the Developer
+Role: Computer Science Professional & Researcher.
+Focus: Educational Technology, Artificial Intelligence, and Autism Support Systems.
+Goal: Building a prototype for a PhD scholarship application at King Abdulaziz University.
+
+Goal: Building a prototype for a PhD scholarship application at King Abdulaziz University.
